@@ -1,6 +1,0 @@
-Open terminal in this folder and run:
-
-pip install -r requirements.txt
-streamlit run app.py
-
-Important: app.py must be visible in the same folder where you run the command.
